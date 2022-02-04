@@ -1,0 +1,2 @@
+# action-detection-with-RNN
+In this project the actions we are categorising are two yoga poses namely half moon pose and camel pose ,as i could not find any temporal datasets(here by temporal i mean sequence of images which constitute a single action for example there are multiple steps for a single yoga pose) i have created my own small data set which you can find here https://drive.google.com/file/d/1pZvLsqEZAhL4RX9UD7akBZRFplgQAnKj/view  it contains 7 steps for each asana performed by multiple individuals.
